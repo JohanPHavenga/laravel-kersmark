@@ -1,0 +1,29 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+div.accordion-content p,
+div.accordion-content ul {
+    margin-bottom: 0;
+}
+
+div.accordion-content ul,
+div.accordion-content ol {
+	padding-left: 1.5em;	
+}
+
+div.accordion-content ul li,
+div.accordion-content ol li {
+	margin-bottom: 6px;
+
+}
+
+div.accordion-content ul {
+	list-style: disc;	
+}
+div.accordion-content ol {
+	list-style: decimal;
+}
