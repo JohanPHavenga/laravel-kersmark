@@ -4,6 +4,79 @@
     "src": "resources/css/app.css",
     "isEntry": true
   },
+  "resources/css/bootstrap.css": {
+    "file": "assets/bootstrap-BDeEY1EH.css",
+    "src": "resources/css/bootstrap.css",
+    "isEntry": true
+  },
+  "resources/css/custom.css": {
+    "file": "assets/custom-5EOxl5mj.css",
+    "src": "resources/css/custom.css",
+    "isEntry": true
+  },
+  "resources/css/font-icons.css": {
+    "file": "assets/font-icons-Pzif-BiT.css",
+    "src": "resources/css/font-icons.css",
+    "isEntry": true
+  },
+  "resources/css/fonts/Simple-Line-Icons.eot": {
+    "file": "assets/Simple-Line-Icons-WsjNpoJQ.eot",
+    "src": "resources/css/fonts/Simple-Line-Icons.eot"
+  },
+  "resources/css/fonts/Simple-Line-Icons.svg": {
+    "file": "assets/Simple-Line-Icons-DeVMa66g.svg",
+    "src": "resources/css/fonts/Simple-Line-Icons.svg"
+  },
+  "resources/css/fonts/Simple-Line-Icons.ttf": {
+    "file": "assets/Simple-Line-Icons-DgWbRIU6.ttf",
+    "src": "resources/css/fonts/Simple-Line-Icons.ttf"
+  },
+  "resources/css/fonts/Simple-Line-Icons.woff": {
+    "file": "assets/Simple-Line-Icons-T7yMu_Cj.woff",
+    "src": "resources/css/fonts/Simple-Line-Icons.woff"
+  },
+  "resources/css/fonts/font-icons.eot": {
+    "file": "assets/font-icons-BdE1B8Gj.eot",
+    "src": "resources/css/fonts/font-icons.eot"
+  },
+  "resources/css/fonts/font-icons.svg": {
+    "file": "assets/font-icons-Cqi221JW.svg",
+    "src": "resources/css/fonts/font-icons.svg"
+  },
+  "resources/css/fonts/font-icons.ttf": {
+    "file": "assets/font-icons-DIDlnCnw.ttf",
+    "src": "resources/css/fonts/font-icons.ttf"
+  },
+  "resources/css/fonts/font-icons.woff": {
+    "file": "assets/font-icons-yz_QmxEg.woff",
+    "src": "resources/css/fonts/font-icons.woff"
+  },
+  "resources/css/fonts/lined-icons.eot": {
+    "file": "assets/lined-icons-C9MfMz_C.eot",
+    "src": "resources/css/fonts/lined-icons.eot"
+  },
+  "resources/css/fonts/lined-icons.svg": {
+    "file": "assets/lined-icons-DRt9buNq.svg",
+    "src": "resources/css/fonts/lined-icons.svg"
+  },
+  "resources/css/fonts/lined-icons.ttf": {
+    "file": "assets/lined-icons-BAOWadKU.ttf",
+    "src": "resources/css/fonts/lined-icons.ttf"
+  },
+  "resources/css/fonts/lined-icons.woff": {
+    "file": "assets/lined-icons-Xqpgs9ll.woff",
+    "src": "resources/css/fonts/lined-icons.woff"
+  },
+  "resources/css/onepage.css": {
+    "file": "assets/onepage-COSy6oCR.css",
+    "src": "resources/css/onepage.css",
+    "isEntry": true
+  },
+  "resources/css/style.css": {
+    "file": "assets/style-CTizlOLL.css",
+    "src": "resources/css/style.css",
+    "isEntry": true
+  },
   "resources/js/app.js": {
     "file": "assets/app-CAkSn3BF.js",
     "name": "app",
