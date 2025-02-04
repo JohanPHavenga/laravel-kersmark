@@ -14,7 +14,7 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">    
+    <link rel="manifest" href="/site.webmanifest">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- Scripts -->
     @vite(['resources/css/app.css', 'resources/css/bootstrap.css', 'resources/css/style.css', 'resources/css/onepage.css', 'resources/css/font-icons.css', 'resources/css/custom.css', 'resources/js/app.js'])
@@ -111,7 +111,7 @@
  ============================================= -->
     <script src="{{ url('js/jquery.js') }}"></script>
     <script src="{{ url('js/plugins.min.js') }}"></script>
-    <script src="https://maps.google.com/maps/api/js?key=AIzaSyAf9RjGBfasEEV3Dg8YVkBpVA1VgmebarU"></script>
+    <script src="https://maps.google.com/maps/api/js?key={{ env('GOOGLE_MAP_KEY') }}"></script>
 
     <!-- Footer Scripts
  ============================================= -->
