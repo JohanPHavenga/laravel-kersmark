@@ -31,7 +31,7 @@ return [
             'heading' => 'Step 1: Vendor Information',
             'date' => [
                 'heading' => 'Date',
-                'text' => 'Monday 17 November to Saturday 6 December 2024',
+                'text' => 'Monday 17 November to Saturday 6 December 2025',
             ],
             'where' => [
                 'heading' => 'Where',
