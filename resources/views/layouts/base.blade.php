@@ -49,7 +49,7 @@
                         <!-- Primary Navigation -->
                         <nav class="primary-menu">
                             <ul class="one-page-menu menu-container" data-easing="easeInOutExpo" data-speed="1250" data-offset="65">
-                                <li class="menu-item">
+                                {{-- <li class="menu-item">
                                     <a href="#" class="menu-link" data-href="#wrapper">
                                         <div>{{ __('content.menu.home') }}</div>
                                     </a>
@@ -63,7 +63,7 @@
                                     <a href="#" class="menu-link" data-href="#section-contact">
                                         <div>{{ __('content.menu.contact') }}</div>
                                     </a>
-                                </li>
+                                </li> --}}
                                 <li class="menu-item">
                                     <a class="button button-3d button-rounded button-dirtygreen" style="padding: 8px 15px;"
                                         href="{{ LaravelLocalization::getCurrentLocale() === 'af' ? url('en') : url('af') }}" class="menu-link">

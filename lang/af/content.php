@@ -1,6 +1,6 @@
 <?php
 return [
-
+    'kennisgewing_img' => 'kersmark-kennisgewing-afr.jpg',
     'menu' => [
         'home' => 'Tuis',
         'vendor_application' => 'Uitstallers Aansoek',
@@ -30,7 +30,7 @@ return [
             'heading' => 'Stap 1: Uitstallers Information',
             'date' => [
                 'heading' => 'Datum',
-                'text' => 'Maandag 17 November to Saterdag 6 Desember 2024',
+                'text' => 'Maandag 17 November to Saterdag 6 Desember 2025',
             ],
             'where' => [
                 'heading' => 'Waar',

@@ -1,7 +1,10 @@
 <x-base-layout>
     <section id="content">
         <div class="content-wrap py-0">
-            <div id="section-about" class="center">
+            <div id="section-notice" class="center">
+                <img src="images/{{ __('content.kennisgewing_img') }}" alt="Uitsig Kersmark Kennisgewing" class="mx-auto d-block">
+            </div>
+            {{-- <div id="section-about" class="center">
                 <div class="container clearfix">
                     <p>
                         <img src="images/Uitsig_Kersmark.jpg" alt="Uitsig Kersmark" class="mx-auto d-block" />
@@ -111,7 +114,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> --}}
 
         </div>
 
