@@ -8,7 +8,7 @@ return [
     ],
     'heading' => [
         'h1' => "Uitsig Kersmark",
-        'date' => "17 November - 6 Desember 2024",
+        'date' => "17 November - 6 Desember 2025",
         'time' => "Mon to Vry 10:00-19:00<br>Sat 09:00-16:00",
         'intro1' => "Welkom by ons 25ste Kersmark! Ons mark is uniek agv ons vriendelike atmosfeer en hoofsaaklik handgemaakte produkte van plaaslike enntreprenuers!<br />Toegang is gratis tot ons ontspanne en verwelkomede mark wat rolstoelvriendelik is. Besoekers sal getrakteer word met n goeie verskeidenheid uitstallers en heerlike versnapperinge en maaltye by die opwip restaurant.",
         'intro2' => "Daar is 'n sentrale betaalpunt met verskeie kasregisters by die uitgang. Die publiek kan per kredietkaart, debietkaart, snapscan of kontant betaal.",

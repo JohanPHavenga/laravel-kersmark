@@ -8,7 +8,7 @@ return [
     ],
     'heading' => [
         'h1' => "Uitsig Kersmark",
-        'date' => "17 November - 6 December 2024",
+        'date' => "17 November - 6 December 2025",
         'time' => "Mon to Fri 10:00-19:00<br>Sat 09:00-16:00",
         'intro1' => "Welcome to our 25th Market! Our market is unique because it is friendly atmosphere & mainly handcrafted products from local entrepreneurs!<br />Entrance is free of charge to our relaxed and welcoming venue that is wheelchair friendly. Visitors will be treated to a good variety of exhibitors and delicious food & treats at our pop-up restaurant.",
         'intro2' => "There is a central payment point with several cash registers at the exit. The public can pay by credit card, debit card, Snapscan or cash.",
