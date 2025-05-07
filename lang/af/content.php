@@ -8,9 +8,9 @@ return [
     ],
     'heading' => [
         'h1' => "Uitsig Kersmark",
-        'date' => "18 November - 7 Desember 2024",
+        'date' => "17 November - 6 Desember 2024",
         'time' => "Mon to Vry 10:00-19:00<br>Sat 09:00-16:00",
-        'intro1' => "Welkom by ons 24ste Kersmark! Ons mark is uniek agv ons vriendelike atmosfeer en hoofsaaklik handgemaakte produkte van plaaslike enntreprenuers!<br />Toegang is gratis tot ons ontspanne en verwelkomede mark wat rolstoelvriendelik is. Besoekers sal getrakteer word met n goeie verskeidenheid uitstallers en heerlike versnapperinge en maaltye by die opwip restaurant.",
+        'intro1' => "Welkom by ons 25ste Kersmark! Ons mark is uniek agv ons vriendelike atmosfeer en hoofsaaklik handgemaakte produkte van plaaslike enntreprenuers!<br />Toegang is gratis tot ons ontspanne en verwelkomede mark wat rolstoelvriendelik is. Besoekers sal getrakteer word met n goeie verskeidenheid uitstallers en heerlike versnapperinge en maaltye by die opwip restaurant.",
         'intro2' => "Daar is 'n sentrale betaalpunt met verskeie kasregisters by die uitgang. Die publiek kan per kredietkaart, debietkaart, snapscan of kontant betaal.",
     ],
     'contact' => [
@@ -30,7 +30,7 @@ return [
             'heading' => 'Stap 1: Uitstallers Information',
             'date' => [
                 'heading' => 'Datum',
-                'text' => 'Maandag 18 November to Saterdag 7 Desember 2024',
+                'text' => 'Maandag 17 November to Saterdag 6 Desember 2024',
             ],
             'where' => [
                 'heading' => 'Waar',
@@ -50,7 +50,7 @@ return [
                 <li><b>R1200</b> - 4 Vlak Hout rak deur ons verskaf (ongeveer 90cm x 75cm)</li>
                 </ul>
                 <ul>
-                <li>Betaalbaar voor of op 31 Augustus 2024</li>
+                <li>Betaalbaar voor of op 31 Augustus 2025</li>
                 <li>Tafelfooie sluit toesig in. Deposito\'s is nie terugbetaalbaar nie. Geen laat betalings sal aanvaar word nie</li>
                 <li>20% van alle verkope word aan die Kerk geskenk. (Slegs 17% van verkope op silver/goued juweliersware)</li>
                 <li>Jy moet dus jou artikels merk sodat die 20% reeds ingesluit is. Geen artikelpryse mag na die keuringsdag of tydens die mark verhoog of verlaag word nie. Rond asseblief jou verkoopprys af tot die naaste R1</li>
@@ -64,7 +64,7 @@ return [
                 <ol>
                 <li>Gaan na www.kersmark.co.za  en voltooi die aansoekvorm tesame met ten minste 6 goeie gehalte en duidelike foto\'s van jou produkte en tafeluitleg</li>
                 <li>Jou aansoek sal hersien word en indien nodig kan \'n verkoper gevra word om hul produk te kom wys. Hier sal ons fokus op die verpakking, kwaliteit en uitstalling van jou produk</li>
-                <li>Sodra aansoeke gesluit is, sal die keuring proses begin en die uitstaller sal nie later as <b>31 Julie</b> in kennis gestel word of hul aansoek suksesvol was</li>
+                <li>Sodra aansoeke gesluit is, sal die keuring proses begin en die uitstaller sal nie later as <b>31 Julie 2025</b> in kennis gestel word of hul aansoek suksesvol was</li>
                 </ol>
                 <p>Seleksiekriteria wat oorweeg sal word:</p>
                 <ul>
@@ -76,22 +76,22 @@ return [
             ],
             'schedule' => [
                 'heading' => 'Tyd Skedule',
-                'text' => '<p><b>31 Mei </b> - Sperdatum vir aansoeke<br>
+                'text' => '<p><b>13 Junie </b> - Sperdatum vir aansoeke<br>
                 <b>31 Julie</b> - Kennisgewing van wie gekies is<br>
                 <b>31 Augustus</b> - Sperdatum vir betaling van tafelfooie<br>
-                <b>14 &amp; 15 November</b> - 09:00-19:00 Saal oop vir uitpak<br>
-                <b>18 November</b> - Mark begin om 10:00<br>
-                <b>07 Desember</b> - Mark eindig om 16:00<br>
-                <b>07 Desember</b> - 17:00 - 19:00 Op pak en verwydering van alle uitstallings en produkte<br>
-                <b>22 Desember</b> - Laaste datum vir elektroniese betaling aan uitstallers
+                <b>13 &amp; 14 November</b> - 09:00-19:00 Saal oop vir uitpak<br>
+                <b>17 November</b> - Mark begin om 10:00<br>
+                <b>06 Desember</b> - Mark eindig om 16:00<br>
+                <b>06 Desember</b> - 17:00 - 19:00 Op pak en verwydering van alle uitstallings en produkte<br>
+                <b>23 Desember</b> - Laaste datum vir elektroniese betaling aan uitstallers
                 </p>',
             ],
             'info' => [
                 'heading' => 'Algemene Inligting',
                 'text' => '<ul>
                 <li><b>Daaglikse verkope opdatering:</b><br>Hierdie fasiliteit is beskikbaar tydens die mark. Meer inligting sal later volg</li>
-                <li><b>Uitpak:</b><br>Die saal sal Donderdag 14 November en Vrydag 15 November vanaf 09:00 - 19:00 oop wees vir uitpak. Jy is verantwoordelik vir die dra, uitpak en vertoon van jou produkte.  Ekstra voorraad moet onder jou tafel gestoor word. Ons verantwoordelikheid ten opsigte van sekuriteit begin Vrydag 15 November om 18:00</li>
-                <li><b>Oppak:</b><br>Die Mark eindig op Saterdag 7 Desember om 16:00.<br>Die saal sal van 17:00 - 19:00 oop wees vir die oppak en wegneem van alle uitstallings en produkte</li>
+                <li><b>Uitpak:</b><br>Die saal sal Donderdag 13 November en Vrydag 14 November vanaf 09:00 - 19:00 oop wees vir uitpak. Jy is verantwoordelik vir die dra, uitpak en vertoon van jou produkte.  Ekstra voorraad moet onder jou tafel gestoor word. Ons verantwoordelikheid ten opsigte van sekuriteit begin Vrydag 14 November om 18:00</li>
+                <li><b>Oppak:</b><br>Die Mark eindig op Saterdag 6 Desember om 16:00.<br>Die saal sal van 17:00 - 19:00 oop wees vir die oppak en wegneem van alle uitstallings en produkte</li>
                 <li><b>Sosiale Media:</b><br>Die mark sal wyd bemark word op facebook, Instagram etc.<br>Daar sal van gekeurde uitstallers verwag word om ons te voorsien van n paar produkte fotos vir bemarking doeleindes</li>
                 </ul>',
             ],

@@ -8,9 +8,9 @@ return [
     ],
     'heading' => [
         'h1' => "Uitsig Kersmark",
-        'date' => "18 November - 7 December 2024",
+        'date' => "17 November - 6 December 2024",
         'time' => "Mon to Fri 10:00-19:00<br>Sat 09:00-16:00",
-        'intro1' => "Welcome to our 24th Market! Our market is unique because it is friendly atmosphere & mainly handcrafted products from local entrepreneurs!<br />Entrance is free of charge to our relaxed and welcoming venue that is wheelchair friendly. Visitors will be treated to a good variety of exhibitors and delicious food & treats at our pop-up restaurant.",
+        'intro1' => "Welcome to our 25th Market! Our market is unique because it is friendly atmosphere & mainly handcrafted products from local entrepreneurs!<br />Entrance is free of charge to our relaxed and welcoming venue that is wheelchair friendly. Visitors will be treated to a good variety of exhibitors and delicious food & treats at our pop-up restaurant.",
         'intro2' => "There is a central payment point with several cash registers at the exit. The public can pay by credit card, debit card, Snapscan or cash.",
     ],
     'contact' => [
@@ -31,7 +31,7 @@ return [
             'heading' => 'Step 1: Vendor Information',
             'date' => [
                 'heading' => 'Date',
-                'text' => 'Monday 18 November to Saturday 7 December 2024',
+                'text' => 'Monday 17 November to Saturday 6 December 2024',
             ],
             'where' => [
                 'heading' => 'Where',
@@ -51,7 +51,7 @@ return [
                 <li><b>R1200</b> - 4 Tier Wooden Shelf provided by us (approx 90cm x 75cm)</li>
                 </ul>
                 <ul>
-                <li>Payable on or before 31 August 2024</li>
+                <li>Payable on or before 31 August 2025</li>
                 <li>Table fees include supervision. Deposits are non-refundable. No late payments will be accepted</li>
                 <li>20% of all sales are donated to the Church (Only 17% of sales of silver/gold jewelery)</li>
                 <li>You should therefore mark your products so that the 20% is already included. No product prices may be increased 
@@ -68,7 +68,7 @@ return [
                 of your products and table display.</li>
                 <li>Your application will be reviewed and if necessary a vendor may be asked to come and showcase their product.  
                 Here we will focus on the packaging, quality and display of your products.</li>
-                <li>Once applications close, the selection process  will begin and vendors will be notified not later than <b>31 July</b> 
+                <li>Once applications close, the selection process  will begin and vendors will be notified not later than <b>31 July 2025</b> 
                 if their application was successful.</li>
                 </ol>
                 <p>Selection criteria that will be considered:</p>
@@ -81,22 +81,22 @@ return [
             ],
             'schedule' => [
                 'heading' => 'Time Schedule',
-                'text' => '<p><b>31 May</b> - Deadline for applications<br>
+                'text' => '<p><b>13 June</b> - Deadline for applications<br>
                 <b>31 July</b> - Notification of who has been selected<br>
                 <b>31 August</b> - Deadline for payment of table fees<br>
-                <b>14 &amp; 15 November</b> - 09:00-19:00 Hall open for unpacking<br>
-                <b>18 November</b> - Market starts at 10:00<br>
-                <b>07 December</b> - Market ends at 16:00.<br>
-                <b>07 December</b> - 17:00 - 19:00 Packing up and removing all exhibits and products<br>
-                <b>22 December</b> - Last date for electronic payment to exhibitors
+                <b>13 &amp; 14 November</b> - 09:00-19:00 Hall open for unpacking<br>
+                <b>17 November</b> - Market starts at 10:00<br>
+                <b>06 December</b> - Market ends at 16:00.<br>
+                <b>06 December</b> - 17:00 - 19:00 Packing up and removing all exhibits and products<br>
+                <b>23 December</b> - Last date for electronic payment to exhibitors
                 </p>',
             ],
             'info' => [
                 'heading' => 'General Information',
                 'text' => '<ul>
                 <li><b>Daily sales update:</b><br>This facility is available during the market. More information will follow later.</li>
-                <li><b>Unpacking:</b><br>The hall will be open for unpacking on Thursday 14 November and Friday 15 November from 09:00 - 19:00. You are responsible for carrying, unpacking and displaying your products. Extra stock should be stored under your table. Our security responsibility begins 15 November at 18:00.</li>
-                <li><b>Packing up:</b><br>The Market ends on Saturday 7 December at 16:00. The hall will be open from 17:00 – 19h00 for packing up and removal of all exhibitions and products.</li>
+                <li><b>Unpacking:</b><br>The hall will be open for unpacking on Thursday 13 November and Friday 14 November from 09:00 - 19:00. You are responsible for carrying, unpacking and displaying your products. Extra stock should be stored under your table. Our security responsibility begins 14 November at 18:00.</li>
+                <li><b>Packing up:</b><br>The Market ends on Saturday 6 December at 16:00. The hall will be open from 17:00 – 19h00 for packing up and removal of all exhibitions and products.</li>
                 <li><b>Social media:</b><br>The market will be marketed extensively on Facebook, Instagram etc. Selected exhibitors will be expected to supply us with a few product photos for marketing purposes.</li>
                 </ul>',
             ],

@@ -105,7 +105,7 @@
                             </div>
 
                             <div class="col-md-12">
-                                <a href="https://forms.gle/zux2ibppCzAtwyQV6"
+                                <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4dQftgGRBdPU7PZDFQ48Jx8ESnFu3-67eEwH6nQyX6_ZkjQ/viewform"
                                     class="button button-desc button-3d button-rounded button-default center">{!! __('content.vendor.step2.button_vendor_app') !!}</a>
                             </div>
                         </div>
