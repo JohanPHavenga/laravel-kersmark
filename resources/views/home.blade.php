@@ -59,6 +59,8 @@
 
                                 <div class="clear topmargin-sm"></div>
 
+                                <abbr title="WhatsApp"><strong>WhatsApp:</strong></abbr>
+                                <a href="https://wa.me/+27637212584">+27 (0)63 721 2584</a><br />
                                 <abbr title="{{ __('content.contact.phone_title') }}"><strong>{{ __('content.contact.phone_text') }}:</strong></abbr>
                                 <a href="tel:+27219194220">+27 (0)21 919 4220</a><br />
                                 <abbr title="{{ __('content.contact.email_title') }}"><strong>{{ __('content.contact.email_text') }}:</strong></abbr>
