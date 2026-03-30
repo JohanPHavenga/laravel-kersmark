@@ -12,7 +12,7 @@ div.accordion-content ul {
 
 div.accordion-content ul,
 div.accordion-content ol {
-	padding-left: 1.5em;	
+	padding-left: 1.5em;
 }
 
 div.accordion-content ul li,
@@ -22,8 +22,39 @@ div.accordion-content ol li {
 }
 
 div.accordion-content ul {
-	list-style: disc;	
+	list-style: disc;
 }
 div.accordion-content ol {
 	list-style: decimal;
+}
+
+/* Ordered List Styles */
+ol {
+	padding-left: 1.5em;
+	margin-bottom: 1.2em;
+	line-height: 1.8;
+	list-style-type: decimal !important;
+}
+
+ol li {
+	margin-bottom: 0.1em;
+	padding-left: 0.5em;
+	color: #333;
+}
+
+ol li strong {
+	color: #222;
+	font-weight: 600;
+}
+
+/* Nested ordered lists */
+ol ol {
+	list-style-type: lower-alpha;
+	padding-left: 2em;
+	margin-top: 0.8em;
+	margin-bottom: 0.8em;
+}
+
+ol ol ol {
+	list-style-type: lower-roman;
 }

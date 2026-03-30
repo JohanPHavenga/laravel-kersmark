@@ -8,10 +8,11 @@ return [
     ],
     'heading' => [
         'h1' => "Uitsig Kersmark",
-        'date' => "16 November - 8 December 2025",
+        'date' => "16 November - 8 December 2026",
         'time' => "Mon to Fri 10:00-19:00<br>Sat 09:00-16:00",
-        'intro1' => "Welcome to our 25th Market! Our market is unique because it is friendly atmosphere & mainly handcrafted products from local entrepreneurs!<br />Entrance is free of charge to our relaxed and welcoming venue that is wheelchair friendly. Visitors will be treated to a good variety of exhibitors and delicious food & treats at our pop-up restaurant.",
+        'intro1' => "Welcome to our 26th Market! Our market is unique because it is friendly atmosphere & mainly handcrafted products from local entrepreneurs!<br />Entrance is free of charge to our relaxed and welcoming venue that is wheelchair friendly. Visitors will be treated to a good variety of exhibitors and delicious food & treats at our pop-up restaurant.",
         'intro2' => "There is a central payment point with several cash registers at the exit. The public can pay by credit card, debit card, Snapscan or cash.",
+        'intro3' => "200+ Vendors | Free entry and parking | Card facilities | Coffee and restaurant",
     ],
     'contact' => [
         'heading' => 'Contact Info',
@@ -118,8 +119,17 @@ return [
             ],
         ],
         'step2' => [
-            'heading' => 'Step 2: Complete Application Form',
-            'text' => 'Application form coming soon',
+            'heading' => 'Step 2: Register with Ecrafter',
+            'text' => '<h5>Step-by-step guide to register and apply</h5>
+            <ol>
+                <li>Go to: <a href="https://ecrafter.co.za/" target="_blank">https://ecrafter.co.za/</a></li>
+                <li>Click Register / Sign Up as Vendor</li>
+                <li>Create your vendor profile</li>
+                <li>Log in to your account</li>
+                <li>Search for Uitsig Winter Market</li>
+                <li>Click Apply</li>
+                <li>You may also search for Uitsig Kersmark and apply there already.</li>
+            </ol>',
             'button_vendor_app' => 'Vendor Appliction<span>Sign-up to become a vendor</span>'
         ],
     ],

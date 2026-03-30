@@ -8,10 +8,11 @@ return [
     ],
     'heading' => [
         'h1' => "Uitsig Kersmark",
-        'date' => "16 November - 8 Desember 2025",
+        'date' => "16 November - 8 Desember 2026",
         'time' => "Mon to Vry 10:00-19:00<br>Sat 09:00-16:00",
-        'intro1' => "Welkom by ons 25ste Kersmark! Ons mark is uniek agv ons vriendelike atmosfeer en hoofsaaklik handgemaakte produkte van plaaslike enntreprenuers!<br />Toegang is gratis tot ons ontspanne en verwelkomede mark wat rolstoelvriendelik is. Besoekers sal getrakteer word met n goeie verskeidenheid uitstallers en heerlike versnapperinge en maaltye by die opwip restaurant.",
+        'intro1' => "Welkom by ons 26ste Kersmark! Ons mark is uniek agv ons vriendelike atmosfeer en hoofsaaklik handgemaakte produkte van plaaslike enntreprenuers!<br />Toegang is gratis tot ons ontspanne en verwelkomede mark wat rolstoelvriendelik is. Besoekers sal getrakteer word met n goeie verskeidenheid uitstallers en heerlike versnapperinge en maaltye by die opwip restaurant.",
         'intro2' => "Daar is 'n sentrale betaalpunt met verskeie kasregisters by die uitgang. Die publiek kan per kredietkaart, debietkaart, snapscan of kontant betaal.",
+        'intro3' => "200+ Uitstallers | Gratis toegang en parkering | Kaart fasiliteite | Koffie en restaurant",
     ],
     'contact' => [
         'heading' => 'Kontak Besonderhede',
@@ -113,8 +114,17 @@ return [
             ],
         ],
         'step2' => [
-            'heading' => 'Stap 2: Voltooi Aansoek Form',
-            'text' => 'Sal binnekort beskikbaar wees.',
+            'heading' => 'Step 2: Ecrafter Registrasie',
+             'text' => '<h5>Stap-vir-stap gids om te registreer en aansoek te doen:</h5>
+            <ol>
+                <li>Gaan na: <a href="https://ecrafter.co.za/" target="_blank">https://ecrafter.co.za/</a></li>
+                <li>Klik Register / Sign Up as Vendor</li>
+                <li>Skep jou verkoper profiel</li>
+                <li>Log in op jou rekening</li>
+                <li>Soek vir Uitsig Winter Market</li>
+                <li>Klik Apply</li>
+                <li>Jy kan ook soek vir Uitsig Kersmark en daar reeds aansoek doen.</li>
+            </ol>',
             'button_vendor_app' => 'Uitstallers Aansoek<span>Doen aansoek om \'n uitstaller te wees</span>'
         ],
     ],

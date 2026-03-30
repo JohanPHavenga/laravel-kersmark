@@ -27,6 +27,8 @@
                         {!! __('content.heading.intro1') !!}</p>
                     <p class="lead mx-auto bottommargin" style="max-width: 800px">
                         {!! __('content.heading.intro2') !!}</p>
+                    <p class="lead mx-auto bottommargin" style="max-width: 800px; font-weight: bold;">
+                        {!! __('content.heading.intro3') !!}</p>
 
                     <!-- <p class="bottommargin" style="font-size: 16px">
                         <a href="#" data-scrollto="#section-services" data-easing="easeInOutExpo" data-speed="1250" data-offset="70" class="more-link">Vendor Application
@@ -106,14 +108,13 @@
                             </div>
                         </div>
 
-                        <div class="row">
+                        <div class="row mt-4">
                             <div class="col-md-12">
                                 <h3>{{ __('content.vendor.step2.heading') }}</h3>
                             </div>
 
                             <div class="col-md-12">
-                                <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4dQftgGRBdPU7PZDFQ48Jx8ESnFu3-67eEwH6nQyX6_ZkjQ/viewform"
-                                    class="button button-desc button-3d button-rounded button-default center">{!! __('content.vendor.step2.button_vendor_app') !!}</a>
+                                {!! __('content.vendor.step2.text') !!}
                             </div>
                         </div>
                     </div>
