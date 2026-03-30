@@ -32,7 +32,9 @@
                         <a href="#" data-scrollto="#section-services" data-easing="easeInOutExpo" data-speed="1250" data-offset="70" class="more-link">Vendor Application
                             <i class="icon-angle-right"></i></a>
                     </p> -->
-                    <div class="clear"></div>
+                    <div class="clear">
+
+                    </div>
                 </div>
             </div>
 
