@@ -8,7 +8,7 @@ return [
     ],
     'heading' => [
         'h1' => "Uitsig Kersmark",
-        'date' => "17 November - 6 December 2025",
+        'date' => "16 November - 8 December 2025",
         'time' => "Mon to Fri 10:00-19:00<br>Sat 09:00-16:00",
         'intro1' => "Welcome to our 25th Market! Our market is unique because it is friendly atmosphere & mainly handcrafted products from local entrepreneurs!<br />Entrance is free of charge to our relaxed and welcoming venue that is wheelchair friendly. Visitors will be treated to a good variety of exhibitors and delicious food & treats at our pop-up restaurant.",
         'intro2' => "There is a central payment point with several cash registers at the exit. The public can pay by credit card, debit card, Snapscan or cash.",
@@ -54,7 +54,7 @@ return [
                 <li>Payable on or before 31 August 2025</li>
                 <li>Table fees include supervision. Deposits are non-refundable. No late payments will be accepted</li>
                 <li>20% of all sales are donated to the Church (Only 17% of sales of silver/gold jewelery)</li>
-                <li>You should therefore mark your products so that the 20% is already included. No product prices may be increased 
+                <li>You should therefore mark your products so that the 20% is already included. No product prices may be increased
                 or decreased after the selection day or during the market. Please round off your selling price to the nearest R1</li>
                 </ul>',
             ],
@@ -64,11 +64,11 @@ return [
                 As a result, a selection panel is appointed for the selection of products. The decisions of the panel is final.<br>
                 The application process are as follow:</p>
                 <ol>
-                <li>Complete the Vendor Application Form on the Website - www.kersmark.co.za and load at least 6 good quality photos 
+                <li>Complete the Vendor Application Form on the Website - www.kersmark.co.za and load at least 6 good quality photos
                 of your products and table display.</li>
-                <li>Your application will be reviewed and if necessary a vendor may be asked to come and showcase their product.  
+                <li>Your application will be reviewed and if necessary a vendor may be asked to come and showcase their product.
                 Here we will focus on the packaging, quality and display of your products.</li>
-                <li>Once applications close, the selection process  will begin and vendors will be notified not later than <b>31 July 2025</b> 
+                <li>Once applications close, the selection process  will begin and vendors will be notified not later than <b>31 July 2025</b>
                 if their application was successful.</li>
                 </ol>
                 <p>Selection criteria that will be considered:</p>
