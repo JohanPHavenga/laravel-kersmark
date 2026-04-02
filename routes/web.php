@@ -16,6 +16,11 @@ Route::group(['prefix' => LaravelLocalization::setLocale()], function()
 	{
 		return View::make('home');
 	});
+
+	Route::get('/wintermark', function()
+	{
+		return View::make('wintermark');
+	});
 });
 
 Route::get('/dashboard', function () {

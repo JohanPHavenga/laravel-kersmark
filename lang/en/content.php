@@ -126,9 +126,8 @@ return [
                 <li>Click Register / Sign Up as Vendor</li>
                 <li>Create your vendor profile</li>
                 <li>Log in to your account</li>
-                <li>Search for Uitsig Winter Market</li>
+                <li>Search for Uitsig Kersmark</li>
                 <li>Click Apply</li>
-                <li>You may also search for Uitsig Kersmark and apply there already.</li>
             </ol>',
             'button_vendor_app' => 'Vendor Appliction<span>Sign-up to become a vendor</span>'
         ],

@@ -121,9 +121,8 @@ return [
                 <li>Klik Register / Sign Up as Vendor</li>
                 <li>Skep jou verkoper profiel</li>
                 <li>Log in op jou rekening</li>
-                <li>Soek vir Uitsig Winter Market</li>
+                <li>Soek vir Uitsig Kersmark</li>
                 <li>Klik Apply</li>
-                <li>Jy kan ook soek vir Uitsig Kersmark en daar reeds aansoek doen.</li>
             </ol>',
             'button_vendor_app' => 'Uitstallers Aansoek<span>Doen aansoek om \'n uitstaller te wees</span>'
         ],
