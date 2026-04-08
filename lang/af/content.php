@@ -5,6 +5,7 @@ return [
         'home' => 'Tuis',
         'vendor_application' => 'Uitstallers Aansoek',
         'contact' => 'Kontak',
+        'wintermark' => 'Wintermark',
     ],
     'heading' => [
         'h1' => "Uitsig Kersmark",

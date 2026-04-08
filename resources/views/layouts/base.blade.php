@@ -65,6 +65,11 @@
                                     </a>
                                 </li>
                                 <li class="menu-item">
+                                    <a href="{{ url('wintermark') }}" class="menu-link">
+                                        <div>{{ __('content.menu.wintermark') }}</div>
+                                    </a>
+                                </li>
+                                <li class="menu-item">
                                     <a class="button button-3d button-rounded button-dirtygreen" style="padding: 8px 15px;"
                                         href="{{ LaravelLocalization::getCurrentLocale() === 'af' ? url('en') : url('af') }}" class="menu-link">
                                         <div>

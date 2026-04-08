@@ -5,6 +5,7 @@ return [
         'home' => 'Home',
         'vendor_application' => 'Vendor Application',
         'contact' => 'Contact',
+        'wintermark' => 'Wintermark',
     ],
     'heading' => [
         'h1' => "Uitsig Kersmark",
