@@ -9,7 +9,7 @@ return [
     ],
     'heading' => [
         'h1' => "Uitsig Kersmark",
-        'date' => "16 November - 8 December 2026",
+        'date' => "16 November - 5 December 2026",
         'time' => "Mon to Fri 10:00-19:00<br>Sat 09:00-16:00",
         'intro1' => "Welcome to our 26th Market! Our market is unique because it is friendly atmosphere & mainly handcrafted products from local entrepreneurs!<br />Entrance is free of charge to our relaxed and welcoming venue that is wheelchair friendly. Visitors will be treated to a good variety of exhibitors and delicious food & treats at our pop-up restaurant.",
         'intro2' => "There is a central payment point with several cash registers at the exit. The public can pay by credit card, debit card, Snapscan or cash.",
@@ -33,7 +33,7 @@ return [
             'heading' => 'Step 1: Vendor Information',
             'date' => [
                 'heading' => 'Date',
-                'text' => 'Monday 17 November to Saturday 6 December 2025',
+                'text' => 'Monday 16 November to Saturday 5 December 2025',
             ],
             'where' => [
                 'heading' => 'Where',
@@ -53,7 +53,7 @@ return [
                 <li><b>R1200</b> - 4 Tier Wooden Shelf provided by us (approx 90cm x 75cm)</li>
                 </ul>
                 <ul>
-                <li>Payable on or before 31 August 2025</li>
+                <li>Payable on or before 8 September</li>
                 <li>Table fees include supervision. Deposits are non-refundable. No late payments will be accepted</li>
                 <li>20% of all sales are donated to the Church (Only 17% of sales of silver/gold jewelery)</li>
                 <li>You should therefore mark your products so that the 20% is already included. No product prices may be increased
@@ -83,14 +83,15 @@ return [
             ],
             'schedule' => [
                 'heading' => 'Time Schedule',
-                'text' => '<p><b>13 June</b> - Deadline for applications<br>
-                <b>31 July</b> - Notification of who has been selected<br>
-                <b>31 August</b> - Deadline for payment of table fees<br>
+                'text' => '<p><b>30 April</b> - Deadline for applications<br>
+                <b>30 May</b> - New vendors are invited for selection: You will receive an e-mail.<br>
+                <b>14 July</b> - Vendors will be notified of the outcome via ecrafter. Vendors who have been approved can already upload their products.<br>
+                <b>8 September</b> - Deadline for payment of table fees<br>
                 <b>13 &amp; 14 November</b> - 09:00-19:00 Hall open for unpacking<br>
-                <b>17 November</b> - Market starts at 10:00<br>
-                <b>06 December</b> - Market ends at 16:00.<br>
-                <b>06 December</b> - 17:00 - 19:00 Packing up and removing all exhibits and products<br>
-                <b>23 December</b> - Last date for electronic payment to exhibitors
+                <b>16 November</b> - Market starts at 10:00<br>
+                <b>05 December</b> - Market ends at 16:00.<br>
+                <b>05 December</b> - 17:00 - 19:00 Packing up and removing all exhibits and products<br>
+                <b>22 December</b> - Last date for electronic payment to exhibitors
                 </p>',
             ],
             'info' => [

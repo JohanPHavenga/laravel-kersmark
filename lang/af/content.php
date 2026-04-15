@@ -9,7 +9,7 @@ return [
     ],
     'heading' => [
         'h1' => "Uitsig Kersmark",
-        'date' => "16 November - 8 Desember 2026",
+        'date' => "16 November - 5 Desember 2026",
         'time' => "Mon to Vry 10:00-19:00<br>Sat 09:00-16:00",
         'intro1' => "Welkom by ons 26ste Kersmark! Ons mark is uniek agv ons vriendelike atmosfeer en hoofsaaklik handgemaakte produkte van plaaslike enntreprenuers!<br />Toegang is gratis tot ons ontspanne en verwelkomede mark wat rolstoelvriendelik is. Besoekers sal getrakteer word met n goeie verskeidenheid uitstallers en heerlike versnapperinge en maaltye by die opwip restaurant.",
         'intro2' => "Daar is 'n sentrale betaalpunt met verskeie kasregisters by die uitgang. Die publiek kan per kredietkaart, debietkaart, snapscan of kontant betaal.",
@@ -32,7 +32,7 @@ return [
             'heading' => 'Stap 1: Uitstallers Information',
             'date' => [
                 'heading' => 'Datum',
-                'text' => 'Maandag 17 November to Saterdag 6 Desember 2025',
+                'text' => 'Maandag 16 November to Saterdag 5 Desember 2025',
             ],
             'where' => [
                 'heading' => 'Waar',
@@ -52,7 +52,7 @@ return [
                 <li><b>R1200</b> - 4 Vlak Hout rak deur ons verskaf (ongeveer 90cm x 75cm)</li>
                 </ul>
                 <ul>
-                <li>Betaalbaar voor of op 31 Augustus 2025</li>
+                <li>Betaalbaar voor of op 8 September</li>
                 <li>Tafelfooie sluit toesig in. Deposito\'s is nie terugbetaalbaar nie. Geen laat betalings sal aanvaar word nie</li>
                 <li>20% van alle verkope word aan die Kerk geskenk. (Slegs 17% van verkope op silver/goued juweliersware)</li>
                 <li>Jy moet dus jou artikels merk sodat die 20% reeds ingesluit is. Geen artikelpryse mag na die keuringsdag of tydens die mark verhoog of verlaag word nie. Rond asseblief jou verkoopprys af tot die naaste R1</li>
@@ -78,12 +78,13 @@ return [
             ],
             'schedule' => [
                 'heading' => 'Tyd Skedule',
-                'text' => '<p><b>13 Junie </b> - Sperdatum vir aansoeke<br>
-                <b>31 Julie</b> - Kennisgewing van wie gekies is<br>
-                <b>31 Augustus</b> - Sperdatum vir betaling van tafelfooie<br>
+                'text' => '<p><b>30 April </b> - Sperdatum vir aansoeke<br>
+                <b>30 Mei</b> - Nuwe uitstallers word uitgenooi vir keuring: Jy sal per e-pos in kennis gestel word.<br>
+                <b>14 Julie</b> - Uitstallers sal per e-pos in kennis gestel word van die uitkoms. Uitstallers wat goedgekeur is, kan reeds hul produkte oplaai.<br>
+                <b>8 September</b> - Sperdatum vir betaling van tafelfooie<br>
                 <b>13 &amp; 14 November</b> - 09:00-19:00 Saal oop vir uitpak<br>
-                <b>17 November</b> - Mark begin om 10:00<br>
-                <b>06 Desember</b> - Mark eindig om 16:00<br>
+                <b>16 November</b> - Mark begin om 10:00<br>
+                <b>05 Desember</b> - Mark eindig om 16:00<br>
                 <b>06 Desember</b> - 17:00 - 19:00 Op pak en verwydering van alle uitstallings en produkte<br>
                 <b>23 Desember</b> - Laaste datum vir elektroniese betaling aan uitstallers
                 </p>',
