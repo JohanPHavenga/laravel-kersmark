@@ -33,7 +33,7 @@ return [
             'heading' => 'Step 1: Vendor Information',
             'date' => [
                 'heading' => 'Date',
-                'text' => 'Monday 16 November to Saturday 5 December 2025',
+                'text' => 'Monday 16 November to Saturday 5 December 2026',
             ],
             'where' => [
                 'heading' => 'Where',
@@ -70,7 +70,7 @@ return [
                 of your products and table display.</li>
                 <li>Your application will be reviewed and if necessary a vendor may be asked to come and showcase their product.
                 Here we will focus on the packaging, quality and display of your products.</li>
-                <li>Once applications close, the selection process  will begin and vendors will be notified not later than <b>31 July 2025</b>
+                <li>Once applications close, the selection process  will begin and vendors will be notified not later than <b>14 July 2025</b>
                 if their application was successful.</li>
                 </ol>
                 <p>Selection criteria that will be considered:</p>
@@ -98,8 +98,8 @@ return [
                 'heading' => 'General Information',
                 'text' => '<ul>
                 <li><b>Daily sales update:</b><br>This facility is available during the market. More information will follow later.</li>
-                <li><b>Unpacking:</b><br>The hall will be open for unpacking on Thursday 13 November and Friday 14 November from 09:00 - 19:00. You are responsible for carrying, unpacking and displaying your products. Extra stock should be stored under your table. Our security responsibility begins 14 November at 18:00.</li>
-                <li><b>Packing up:</b><br>The Market ends on Saturday 6 December at 16:00. The hall will be open from 17:00 – 19h00 for packing up and removal of all exhibitions and products.</li>
+                <li><b>Unpacking:</b><br>The hall will be open for unpacking on Friday 13 November and Saturday 14 November from 09:00 - 19:00. You are responsible for carrying, unpacking and displaying your products. Extra stock should be stored under your table. Our security responsibility begins Saturday 14 November at 18:00.</li>
+                <li><b>Packing up:</b><br>The Market ends on Saturday 5 December at 16:00. The hall will be open from 17:00 – 19h00 for packing up and removal of all exhibitions and products.</li>
                 <li><b>Social media:</b><br>The market will be marketed extensively on Facebook, Instagram etc. Selected exhibitors will be expected to supply us with a few product photos for marketing purposes.</li>
                 </ul>',
             ],

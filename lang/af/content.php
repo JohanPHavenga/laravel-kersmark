@@ -32,7 +32,7 @@ return [
             'heading' => 'Stap 1: Uitstallers Information',
             'date' => [
                 'heading' => 'Datum',
-                'text' => 'Maandag 16 November to Saterdag 5 Desember 2025',
+                'text' => 'Maandag 16 November to Saterdag 5 Desember 2026',
             ],
             'where' => [
                 'heading' => 'Waar',
@@ -66,7 +66,7 @@ return [
                 <ol>
                 <li>Gaan na www.kersmark.co.za  en voltooi die aansoekvorm tesame met ten minste 6 goeie gehalte en duidelike foto\'s van jou produkte en tafeluitleg</li>
                 <li>Jou aansoek sal hersien word en indien nodig kan \'n verkoper gevra word om hul produk te kom wys. Hier sal ons fokus op die verpakking, kwaliteit en uitstalling van jou produk</li>
-                <li>Sodra aansoeke gesluit is, sal die keuring proses begin en die uitstaller sal nie later as <b>31 Julie 2025</b> in kennis gestel word of hul aansoek suksesvol was</li>
+                <li>Sodra aansoeke gesluit is, sal die keuring proses begin en die uitstaller sal nie later as <b>14 Julie 2025</b> in kennis gestel word of hul aansoek suksesvol was</li>
                 </ol>
                 <p>Seleksiekriteria wat oorweeg sal word:</p>
                 <ul>
@@ -93,8 +93,8 @@ return [
                 'heading' => 'Algemene Inligting',
                 'text' => '<ul>
                 <li><b>Daaglikse verkope opdatering:</b><br>Hierdie fasiliteit is beskikbaar tydens die mark. Meer inligting sal later volg</li>
-                <li><b>Uitpak:</b><br>Die saal sal Donderdag 13 November en Vrydag 14 November vanaf 09:00 - 19:00 oop wees vir uitpak. Jy is verantwoordelik vir die dra, uitpak en vertoon van jou produkte.  Ekstra voorraad moet onder jou tafel gestoor word. Ons verantwoordelikheid ten opsigte van sekuriteit begin Vrydag 14 November om 18:00</li>
-                <li><b>Oppak:</b><br>Die Mark eindig op Saterdag 6 Desember om 16:00.<br>Die saal sal van 17:00 - 19:00 oop wees vir die oppak en wegneem van alle uitstallings en produkte</li>
+                <li><b>Uitpak:</b><br>Die saal sal Vrydag 13 November en Saterdag 14 November vanaf 09:00 - 19:00 oop wees vir uitpak. Jy is verantwoordelik vir die dra, uitpak en vertoon van jou produkte.  Ekstra voorraad moet onder jou tafel gestoor word. Ons verantwoordelikheid ten opsigte van sekuriteit begin Saterdag 14 November om 18:00</li>
+                <li><b>Oppak:</b><br>Die Mark eindig op Saterdag 5 Desember om 16:00.<br>Die saal sal van 17:00 - 19:00 oop wees vir die oppak en wegneem van alle uitstallings en produkte</li>
                 <li><b>Sosiale Media:</b><br>Die mark sal wyd bemark word op facebook, Instagram etc.<br>Daar sal van gekeurde uitstallers verwag word om ons te voorsien van n paar produkte fotos vir bemarking doeleindes</li>
                 </ul>',
             ],
